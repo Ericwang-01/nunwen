@@ -1,0 +1,27 @@
+image 1/1 C:/Users/24686/Desktop/appletest/test/Apple\Fruit (10).jpg: 224x224 Tomatoes 0.90, Plum 0.03, Carambola 0.03, Pear 0.03, Apple 0.02
+
+image 1/1 C:/Users/24686/Desktop/appletest/test/Apple\Fruit (100).jpg: 224x224 Tomatoes 0.89, Pear 0.03, Plum 0.03, Carambola 0.03, Apple 0.02
+
+image 1/1 C:/Users/24686/Desktop/appletest/test/Apple\Fruit (1000).jpg: 224x224 Tomatoes 0.89, Plum 0.03, Pear 0.03, Carambola 0.03, Apple 0.03
+
+image 1/1 C:/Users/24686/Desktop/appletest/test/Apple\Fruit (10000).jpg: 224x224 Apple 0.92, Pear 0.02, Carambola 0.02, Tomatoes 0.02, Plum 0.02
+
+image 1/1 C:/Users/24686/Desktop/appletest/test/Apple\Fruit (10001).jpg: 224x224 Apple 0.92, Pear 0.02, Carambola 0.02, Plum 0.02, Tomatoes 0.02
+
+image 1/1 C:/Users/24686/Desktop/appletest/test/Apple\Fruit (10002).jpg: 224x224 Apple 0.92, Pear 0.02, Carambola 0.02, Plum 0.02, Tomatoes 0.02
+
+image 1/1 C:/Users/24686/Desktop/appletest/test/Apple\Fruit (10003).jpg: 224x224 Apple 0.92, Pear 0.02, Carambola 0.02, Plum 0.02, Tomatoes 0.02
+
+image 1/1 C:/Users/24686/Desktop/appletest/test/Apple\Fruit (10004).jpg: 224x224 Apple 0.93, Carambola 0.02, Pear 0.02, Plum 0.02, Tomatoes 0.02
+
+image 1/1 C:/Users/24686/Desktop/appletest/test/Apple\Fruit (10005).jpg: 224x224 Apple 0.92, Pear 0.02, Carambola 0.02, Plum 0.02, Tomatoes 0.02
+
+image 1/1 C:/Users/24686/Desktop/appletest/test/Apple\Fruit (10006).jpg: 224x224 Apple 0.92, Pear 0.02, Carambola 0.02, Plum 0.02, Tomatoes 0.02
+
+image 1/1 C:/Users/24686/Desktop/appletest/test/Apple\Fruit (10007).jpg: 224x224 Apple 0.93, Carambola 0.02, Pear 0.02, Plum 0.02, Tomatoes 0.02
+
+image 1/1 C:/Users/24686/Desktop/appletest/test/Apple\Fruit (10008).jpg: 224x224 Apple 0.92, Pear 0.02, Carambola 0.02, Plum 0.02, Tomatoes 0.02
+
+image 1/1 C:/Users/24686/Desktop/appletest/test/Apple\Fruit (10009).jpg: 224x224 Apple 0.92, Pear 0.02, Carambola 0.02, Plum 0.02, Tomatoes 0.02
+
+image 1/1 C:/Users/24686/Desktop/appletest/test/Apple\Fruit (1001).jpg: 224x224 Tomatoes 0.89, Plum 0.03, Carambola 0.03, Pear 0.03, Apple 0.03
